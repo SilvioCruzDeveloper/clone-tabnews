@@ -26,10 +26,18 @@ function Home() {
                 }
             `}</style>
             <div className="ola-mundo">
-                <h1>Olá, Mundo!</h1>
-                <p>Bem-vindo</p>
-                <p> eita doido </p>
-            </div>
+                <h1>Olá, meu Bem</h1>
+                <p>to aprendendo aqui</p>
+                <p> te amo muitoo!</p>
+                <p>
+                    vc e o amor da minha vida ny , <br> 
+                    obrigado por me apioar 
+                </p>
+                <h2>
+                    te amo , e se isso aqui deu certo me da um bejo?
+                    
+                </h2>
+            </div> 
         </div>
     );
 }

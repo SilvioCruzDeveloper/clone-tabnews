@@ -1,0 +1,42 @@
+/* Home.css */
+
+/* Container principal */
+div {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  /* Título */
+  h1 {
+    color: #ff66b2; /* Rosa */
+  }
+  
+  /* Parágrafo com a mensagem de amor */
+  p {
+    color: #ff3399; /* Rosa mais escuro */
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  /* Botão com animação */
+  button {
+    background-color: #ff66b2; /* Rosa */
+    color: #fff; /* Texto branco */
+    font-size: 1em;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Animação de transição de cor de fundo */
+  
+    /* Adiciona emojis ao botão */
+    &::before {
+      content: "\1F60D"; /* Emoji sorridente */
+      margin-right: 5px;
+    }
+  
+    &:hover {
+      background-color: #ff3385; /* Rosa mais escuro ao passar o mouse */
+    }
+  }
+  

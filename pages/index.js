@@ -10,7 +10,7 @@ function Home() {
     >
       <h1>to indo bem?</h1>
       <p>oi ny , te amo muito sabias?</p>
-      <P>te amo te amoooo!!!!</P>
+      <P>te amo te amoooo!!!!!</P>
     </div>
   );
 }
